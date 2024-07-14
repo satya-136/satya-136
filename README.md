@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @satya-136
 - 👋 Hi, I’m D. VENKATA SATYANARAYANA
-- 👀 I’m interested in Type writing jobs and excel sheets work
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web development, data analyst, canva, photography
 - 📫 How to reach me contact through mail d.v.satyanarayana260@gmail.com
 
 <!---
